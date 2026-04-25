@@ -4,6 +4,14 @@ kdbox + onlyoffice
 
 局域网 文件共享，文档在线协同
 
+VMWareWorktsation
+
+虚拟机凭证：root:root
+
+平台凭证：sysadmin:FloatCTF@2025
+
+若onlyoffice不可用，进入虚拟机docker ps检查状态；如果是反复重启，请使用恢复快照
+
 <img width="2700" height="1634" alt="image" src="https://github.com/user-attachments/assets/6ca5cb4f-8e6c-41c3-b140-8b3b53847e56" />
 
 
