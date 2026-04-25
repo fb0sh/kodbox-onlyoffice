@@ -1,14 +1,12 @@
 # kodbox-onlyoffice
 
-kdbox + onlyoffice
+kodbox + onlyoffice
 
 局域网 文件共享，文档在线协同
 
-VMWareWorktsation
+VMWare Workstation
 
-虚拟机凭证：root:root
-
-平台凭证：sysadmin:FloatCTF@2025
+凭证查看虚拟机描述
 
 若onlyoffice不可用，进入虚拟机docker ps检查状态；如果是反复重启，请使用恢复快照
 
